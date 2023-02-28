@@ -1,12 +1,14 @@
-/**
-  |============================
-  | include css partials with
-  | default @import url()
-  |============================
-*/
 @import url('./reset.css');
-@import url('./vite-promo.css');
 @import url('./header.css');
+@import url('./topic-list.css');
+@import url('./main.css');
+@import url('./calendar.css');
+@import url('./weather.css');
+@import url('./news-list.css');
+@import url('./news-card.css');
+@import url('./favorite.css');
+@import url('./read.css');
+@import url('./pagination.css');
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;

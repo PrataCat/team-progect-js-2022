@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "team-progect-js-2022",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/team-progect-js-2022/",
     "preview": "vite preview"
   },
   "devDependencies": {
